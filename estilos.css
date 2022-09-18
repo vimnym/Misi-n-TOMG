@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHkD0rypX5eBx7pr4hvSsRGdTodTQEIE9MsQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+    color: black;
+}
+
+button{
+    font-style: normal;
+    font-size: medium;
+}
